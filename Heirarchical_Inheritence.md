@@ -91,4 +91,7 @@ pat.displayPatient()
 ## Sample Output
 <img width="817" height="395" alt="image" src="https://github.com/user-attachments/assets/2782074b-7586-48d9-b16d-e22542a6fd7d" />
 
+##Result
+The Python program was executed successfully, demonstrating hierarchical inheritance. The base class Details was inherited by both Employee and Patient classes, and the details were displayed correctly using their respective methods.
+
 
