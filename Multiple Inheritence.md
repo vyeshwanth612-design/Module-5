@@ -57,3 +57,7 @@ except ValueError:
 ## Output Example
 <img width="832" height="478" alt="image" src="https://github.com/user-attachments/assets/0278f1b1-ff52-4055-bd41-7c242238611a" />
 
+
+## Result
+The Python program was executed successfully, demonstrating multiple inheritance. The derived class accessed methods from both parent classes and performed addition, subtraction, and division correctly.
+
