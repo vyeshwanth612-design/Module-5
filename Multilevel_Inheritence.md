@@ -67,4 +67,7 @@ print(f"Location : {person.getLocation()}")
 ## Sample Output
 <img width="1654" height="693" alt="image" src="https://github.com/user-attachments/assets/5dc5848b-3654-422e-b907-94799cbd0a45" />
 
+## Result
+The Python program was executed successfully, demonstrating multilevel inheritance. The properties from parent, child, and grandchild classes were inherited and displayed correctly.
+
 
