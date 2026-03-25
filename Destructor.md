@@ -45,4 +45,5 @@ print("Program execution finished.")
 
 
 ## Result
+The Python program was executed successfully, demonstrating the use of a constructor and destructor. The constructor initialized the object, and the destructor was automatically called when the object was deleted, displaying the appropriate message.
 
