@@ -29,3 +29,4 @@ obj.show()
 
 
 ## Result
+The Python program was executed successfully, and a class with a constructor was used to display a welcome message along with the student’s name.
